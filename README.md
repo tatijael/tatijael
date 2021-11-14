@@ -10,7 +10,7 @@
 <div align="left"> 
  <a href="https://getbootstrap.com" target="_blank"> 
   <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" target="_blank">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png" alt="css3" width="40" height="40"/>
  </a>
  <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -23,9 +23,9 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  </a>
  <a href="https://reactnative.dev/" target="_blank">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="reactnative" width="40" height="40"/>
  </a>
  <a href="https://sass-lang.com" target="_blank">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/>
  </a>
 </div>
