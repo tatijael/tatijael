@@ -28,4 +28,8 @@
  <a href="https://sass-lang.com" target="_blank">
   <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/>
  </a>
+  <a href="#" target="_blank">
+  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/>
+ </a>
 </div>
+
