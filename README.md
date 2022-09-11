@@ -1,35 +1,25 @@
-### Hi, Im Tatiana  👩🏻‍💻   
- 
- Frontend Developer 
 
-  ![ilustrator](https://user-images.githubusercontent.com/62758577/94380244-2875aa00-010b-11eb-90dd-0c953f1300cd.jpg)
+<h2> Hi, I'm Tatiana Saucedo! <img src="https://media.giphy.com/media/QYptS5mfG1lYMdCgCh/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/bn7hlyp0Cmcg0/giphy.gif" width="230">
+<p><em> Frontend Developer </em></p>
+
+[![Twitter: Tatusaucedo](https://img.shields.io/twitter/follow/tatusaucedo?style=social)](https://twitter.com/tatusaucedo)
+[![Linkedin: tatijael](https://img.shields.io/badge/-tatijael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatijael/)](https://www.linkedin.com/in/tatijael/)
+[![GitHub tatijael](https://img.shields.io/github/followers/tatijael?label=follow&style=social)](https://github.com/tatijael)
 
 
+### <img src="https://media.giphy.com/media/mGc3RhW64NgWpVhMUB/giphy.gif" width="50"> A little more about me...  
 
-<h3 align="left"> My Technologies:</h3>
-<div align="left"> 
- <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png" alt="html5" width="40" height="40"/>
- </a> 
- <a href="https://getbootstrap.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png" alt="css3" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png" alt="nodejs" width="40" height="40"/>
- </a>
- <a href="https://reactnative.dev/" target="_blank">
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="reactnative" width="40" height="40"/>
- </a>
- <a href="https://sass-lang.com" target="_blank">
-  <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/>
- </a>
-  <a href="#" target="_blank">
-  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/>
- </a>
-</div>
+```javascript
+const Tati = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Next Js, Styled-Components, React Query, Sass, 
+  Testing React Apps - Jest, Cypress],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
