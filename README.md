@@ -14,7 +14,7 @@
 const Tati = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Next Js, Styled-Components, React Query, Sass, 
+  tools: [React, Redux, Next Js, Styled-Components, React Query, Sass, Astro
   Testing React Apps - Jest, Cypress,],
 }
 ```
